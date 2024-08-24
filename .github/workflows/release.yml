@@ -11,6 +11,8 @@ on:
   push:
     branches:
       - master
+  workflow_call:
+    
 
 env:
   # Use docker.io for Docker Hub if empty
