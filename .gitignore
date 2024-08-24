@@ -58,6 +58,7 @@ coverage
 /coverage_*
 /artifacts
 .DS_Store
+*.old
 jsconfig.json
 /test-reports
 /cypress/videos
