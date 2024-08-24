@@ -34,5 +34,6 @@ coverage
 **/values.dev.yaml
 **/build
 **/dist
+*.old
 LICENSE
 README.md
