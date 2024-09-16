@@ -1,6 +1,6 @@
 {
   "name": "@mergeability/mergeable",
-  "version": "2.17.4",
+  "version": "2.17.5",
   "description": "",
   "author": "Justin Law <hello@justinlaw.org> (https://github.io/mergeability/mergeable), Shine Lee <aungshine@gmail.com>",
   "license": "AGPL-3.0-only",
@@ -37,7 +37,7 @@
     "codecov": "^3.7.2",
     "cross-env": "^7.0.3",
     "jest": "^29.7.0",
-    "nock": "14.0.0-beta.11",
+    "nock": "14.0.0-beta.14",
     "nodemon": "^2.0.3",
     "object-dot": "^1.7.0",
     "smee-client": "^1.0.1",
