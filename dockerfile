@@ -1,4 +1,3 @@
-# Copyright (c) 2024 Nordic Game Lab, LLC. All rights reserved
 # Base image
 FROM node:20.19.2-alpine
 
@@ -11,7 +10,7 @@ WORKDIR /app
 # Copy package.json, package-lock.json, and source code
 COPY package*.json ./
 
-# Install dependencies using yarn
+# Install dependencies using npm
 RUN npm install
 
 # Copy remaining source code
