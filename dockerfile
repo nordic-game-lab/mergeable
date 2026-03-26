@@ -1,5 +1,5 @@
 # Base image
-FROM node:20.19.5-alpine
+FROM node:20.20.2-alpine
 
 LABEL org.opencontainers.image.vendor="Nordic Game Lab, LLC"
 LABEL org.opencontainers.image.licenses=AGPL-3.0-only
